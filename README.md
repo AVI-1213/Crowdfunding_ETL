@@ -59,11 +59,16 @@ we verified that each table had the correct data with SELECT statements.
 ---
 ---
 
+## Project files:
+Jupyter notebook: /ETL_Mini_Project_SSwain_AVI.ipynb <br>
+Resources: /Resources <br>
+SQL Scripts and ER Diagram: /SQL/CREATE_TABLES_SCHEMA.sql <br>
+                            /SQL/IMPORT_from_CSV.sql <br>
+                            /SQL/VERIFY_IMPORT.sql <br>
+                            /SQL/ERD_diagram <br>
 
-
-
-
-
+## How to run the project: 
+Run the "Crowdfunding_ETL/Crowdfunding_ETL/Starter_Files/ETL_Mini_Project_SSwain_AVI.ipynb" file.
 
 
 ## Tools Used
