@@ -51,7 +51,7 @@ We inspected the four CSV files and sketched an ERD using QuickDBD. Here is the 
 
 
 
-Based on the ERD, we created a table schema for each CSV file and saved the schema as `crowdfunding_db_schema.sql`. 
+Based on the ERD, we created a table schema for each CSV file and saved the schema as `CREATE_TABLES_SCHEMA.sql`. 
 We then created a new PostgreSQL database named `crowdfunding_db`, created the tables in the correct order to handle foreign keys, 
 verified the table creation with SELECT statements, and imported each CSV file into its corresponding SQL table. Finally, 
 we verified that each table had the correct data with SELECT statements.
