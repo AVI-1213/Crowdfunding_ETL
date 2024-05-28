@@ -46,7 +46,12 @@ We split the `name` column into `first_name` and `last_name` columns, cleaned th
 
 
 ## Create the Crowdfunding Database
-We inspected the four CSV files and sketched an ERD using QuickDBD. Based on the ERD, we created a table schema for each CSV file and saved the schema as `crowdfunding_db_schema.sql`. 
+We inspected the four CSV files and sketched an ERD using QuickDBD. Here is the ERD image:
+![QuickDBD_ER_Diagram](https://github.com/AVI-1213/Crowdfunding_ETL/assets/156638175/782a825d-536d-473f-9727-a96c7053ab16)
+
+
+
+Based on the ERD, we created a table schema for each CSV file and saved the schema as `crowdfunding_db_schema.sql`. 
 We then created a new PostgreSQL database named `crowdfunding_db`, created the tables in the correct order to handle foreign keys, 
 verified the table creation with SELECT statements, and imported each CSV file into its corresponding SQL table. Finally, 
 we verified that each table had the correct data with SELECT statements.
