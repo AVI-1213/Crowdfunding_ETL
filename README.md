@@ -69,7 +69,7 @@ SQL Scripts and ER Diagram: /SQL/CREATE_TABLES_SCHEMA.sql <br>
 
 ## How to run the project: 
 Run the "Crowdfunding_ETL/Crowdfunding_ETL/Starter_Files/ETL_Mini_Project_SSwain_AVI.ipynb" file.
-
+Output is generated in the /Resources folder
 
 ## Tools Used
 
